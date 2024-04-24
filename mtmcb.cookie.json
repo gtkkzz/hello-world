@@ -1,0 +1,8 @@
+#!name=mtmcb
+#!desc=mtmcb
+
+[Script]
+http-request ^https?:\/\/mall\.meituan\.com\/api\/c\/mallcoin\/checkIn\/queryTaskListInfoV.\? script-path=https://raw.githubusercontent.com/JoJoJotarou/myScript/master/script/meituan/mall.meituan.cookie.js, timeout=10, tag=买菜币CK
+
+[MITM]
+hostname = mall.meituan.com
