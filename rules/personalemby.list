@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,gfhd.19991998.xyz
+IP-CIDR,154.12.52.149
 
 # aca
 DOMAIN-SUFFIX,misakaf.org
