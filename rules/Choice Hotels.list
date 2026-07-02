@@ -1,0 +1,20 @@
+# UpdateTime: 2026-07-02 09:40:56
+# RuleCount: 11
+#  Choice Hotels 官方 iOS App 极致精简分流集
+
+# 核心主站与核心依赖 (后缀匹配)
+DOMAIN-SUFFIX, choicehotels.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, quantummetric.com
+DOMAIN-SUFFIX, kvaedit.site
+
+# 补全：App 核心高清图片与 CDN 资源
+DOMAIN-SUFFIX, chstatic.com
+DOMAIN-SUFFIX, choicehotels.map.fastly.net
+
+# 优化：将全域名转换为后缀匹配，防止未来换服务器失效
+DOMAIN-SUFFIX, braze.com
+DOMAIN-SUFFIX, crashlytics.com
+DOMAIN-SUFFIX, rokt.com
+DOMAIN-SUFFIX, usabilla.com
+DOMAIN-SUFFIX, omtrdc.net
