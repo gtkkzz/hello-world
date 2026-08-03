@@ -2,7 +2,7 @@
 #!desc=豆瓣开屏广告屏蔽，只保留开屏
 #!homepage=https://github.com/gtkkzz/hello-world
 #!icon=https://raw.githubusercontent.com/honue/rules/master/img/douban.png
-#!author=gekkzz
+#!author=gtkkzz
 
 [Rule]
 
