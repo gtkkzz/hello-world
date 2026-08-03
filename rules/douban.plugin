@@ -1,6 +1,8 @@
 #!name=豆瓣开屏广告屏蔽
 #!desc=豆瓣开屏广告屏蔽，只保留开屏
-#!author=honue
+#!homepage=https://github.com/gtkkzz/hello-world
+#!icon=https://raw.githubusercontent.com/honue/rules/master/img/douban.png
+#!author=gekkzz
 
 [Rule]
 
